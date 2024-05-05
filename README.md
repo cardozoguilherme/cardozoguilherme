@@ -6,5 +6,5 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python | C | HTML | CSS | Estudando Java**
+  🦄 Linguagens: **Python | C | HTML | CSS | Java**
 </p>

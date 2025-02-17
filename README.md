@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, meu nome é Guilherme Cardozo e eu sou um estudante e entusiasta de tecnologia.<br>
-  Atualmente estou cursando o 3 período de ciência da computação, na CESAR School.
+  Atualmente estou cursando o 5 período de ciência da computação, na CESAR School.
 </p>
 
 <p align="left">
